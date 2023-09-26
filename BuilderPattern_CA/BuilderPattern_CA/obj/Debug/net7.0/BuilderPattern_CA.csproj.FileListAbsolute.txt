@@ -1,0 +1,14 @@
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\bin\Debug\net7.0\BuilderPattern_CA.exe
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\bin\Debug\net7.0\BuilderPattern_CA.deps.json
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\bin\Debug\net7.0\BuilderPattern_CA.runtimeconfig.json
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\bin\Debug\net7.0\BuilderPattern_CA.dll
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\bin\Debug\net7.0\BuilderPattern_CA.pdb
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\obj\Debug\net7.0\BuilderPattern_CA.GeneratedMSBuildEditorConfig.editorconfig
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\obj\Debug\net7.0\BuilderPattern_CA.AssemblyInfoInputs.cache
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\obj\Debug\net7.0\BuilderPattern_CA.AssemblyInfo.cs
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\obj\Debug\net7.0\BuilderPattern_CA.csproj.CoreCompileInputs.cache
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\obj\Debug\net7.0\BuilderPattern_CA.dll
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\obj\Debug\net7.0\refint\BuilderPattern_CA.dll
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\obj\Debug\net7.0\BuilderPattern_CA.pdb
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\obj\Debug\net7.0\BuilderPattern_CA.genruntimeconfig.cache
+D:\Program Files (x86)\VisualPratik\BuilderPattern_CA\BuilderPattern_CA\obj\Debug\net7.0\ref\BuilderPattern_CA.dll
